@@ -8,6 +8,3 @@ end
 new_array
 end
 
-my_collect(["tim", "tom", "jim"]) do |name|
-  name.upcase
-end 
